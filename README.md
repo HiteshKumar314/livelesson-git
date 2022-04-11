@@ -22,3 +22,10 @@
 
 # pat_example
 a change using https and PAT 
+
+- `git remote add <NAME> <URL>`: adds the <URL> as a remote with the name <NAME>
+    - <NAME> is by conventioncalled `origin`
+- `git remote rm <NAME>`: removes the remote called <NAME>
+    - `git remote -v`: looks at all the remotes you have
+- `git push <WHERE> <WHAT>`: pushes the <WHAT> branch to <WHERE>
+    - `git push origin main`
