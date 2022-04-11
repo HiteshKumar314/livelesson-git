@@ -1,4 +1,6 @@
-# Git notes for local work
+# Git Notes
+
+# Working with git locally
 
 - `git init`: initialize current folder as a git repository
 - `git clone <URL>`: brings the git repo from <URL> to current folder
@@ -25,7 +27,8 @@
 # pat_example
 a change using https and PAT 
 
-# Git notes for remote work
+
+# Working with remotes
     
 - `git remote add <NAME> <URL>`: adds the <URL> as a remote with the name <NAME>
     - <NAME> is by conventioncalled `origin`
